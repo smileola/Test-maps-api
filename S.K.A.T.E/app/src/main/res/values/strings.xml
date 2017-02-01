@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">S.K.A.T.E</string>
+    <string name="title_activity_maps">M.A.P</string>
+    <string name="default_info_title">Default Title</string>
+    <string name="default_info_snippet">Default Snippet</string>
+    <string name="add_spot_title">Add a spot to the M.A.P</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="spot_name">Spot Name</string>
+    <string name="spot_description">Spot Description</string>
+    <string name="title_activity_spot_view">SpotViewActivity</string>
+</resources>
